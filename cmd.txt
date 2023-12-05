@@ -1,0 +1,1 @@
+./dmabuf-sharing -M /dev/dri/card0 -i /dev/video0 -o 95:51 -F YUYV
